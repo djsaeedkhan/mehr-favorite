@@ -1,0 +1,11 @@
+.mehrtable *{font-size:12px !important;}
+.mshform *{font:12px tahoma  !important; padding: 5px;}
+.red{color:#D54E21}
+
+
+
+#tbl{border: 1px solid #E1E1E1;border-top:0px;border-right:0px;}
+#tbl tr td{padding:10px;border: 1px solid #E1E1E1;border-bottom:0px;border-left:0px;}
+#tbl tr td input{font:12px tahoma;padding:3px;}</style>
+
+
